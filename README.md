@@ -26,6 +26,9 @@ You can use this Android app as to make a list of you are going tu buy when you 
 **1] Home Screen ->**
 ![Home Screen](https://user-images.githubusercontent.com/109810660/192148149-88477faf-b0d5-4825-83a3-3dcf2d28b0ed.jpg)
 
+**YOU CAN WATCH THE PROJECT WALKTHROUGH VIDEO BY CLICKING LINK BELOW**
+https://drive.google.com/file/d/1Rhx9D-d9SM5DLZzfaHbTJH3ngFPV1XZl/view?usp=sharing
+
 **2] Add Item Window ->**
 ![Add Item in the List Activity](https://user-images.githubusercontent.com/109810660/192148193-1f718fec-2082-4785-9010-c003268d2655.jpg)
 
