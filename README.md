@@ -36,4 +36,5 @@ You can use this Android app as to make a list of you are going tu buy when you 
 ![Item Deleted From the List](https://user-images.githubusercontent.com/109810660/192148252-2a9d72fe-7813-4ecd-8d98-549581a60d1d.jpg)
 
 **YOU CAN WATCH THE PROJECT WALKTHROUGH VIDEO BY CLICKING LINK BELOW**
+
 https://drive.google.com/file/d/1Rhx9D-d9SM5DLZzfaHbTJH3ngFPV1XZl/view?usp=sharing
